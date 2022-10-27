@@ -8,7 +8,7 @@ You can find me on [Twitter](https://twitter.com/blakecops) or Discord at Blake#
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=blake-ellis&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JedPattersonn&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blake-ellis&theme=tokyonight" />
 </p>
 
 
