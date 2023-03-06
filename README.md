@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome in my GitHub Profile!**
+**Welcome to my GitHub Profile!**
 
 I'm Blake, a .NET Developer currently working at Absurd_
 
