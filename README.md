@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub Profile!**
 
-I'm Blake, a .NET Developer currently working at Absurd_
+I'm Blake, a .NET Developer currently working at 6B Digital
 
 You can find me on [Twitter](https://twitter.com/blakecops) or Discord at Blake#8678
 
