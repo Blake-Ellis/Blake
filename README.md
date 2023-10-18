@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub Profile!**
 
-I'm Blake, a .NET Developer currently working at 6B Digital
+I'm Blake, a .NET Developer
 
 You can find me on Discord at _blakey
 
